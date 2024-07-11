@@ -1,0 +1,14 @@
+.contact {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+  
+    padding:20px;
+    
+    
+  }
+
+.form{
+    max-width: 500px;
+    max-height: 500px;
+}
